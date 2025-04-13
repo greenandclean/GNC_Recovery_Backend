@@ -1,0 +1,14 @@
+{
+  "name": "gnc-recovery-backend",
+  "version": "1.0.0",
+  "description": "Backend API for G&C Recovery Admin Panel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
